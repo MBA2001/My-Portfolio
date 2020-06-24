@@ -2,7 +2,7 @@
 
 Social-Media-App: http://socialclone-6e722.web.app/
 
-These are some of the projects i created while teaching myself programming, i dove into different categories on the way hope you like it
+My name is Mohamed Baher im egyptian and these are some of the projects i created while teaching myself programming, i dove into different categories on the way hope you like it
 
 I am a cs major student, who focused on self learning as it was the only way to reach the level i want
 that is why im ahead of my college in terms of knowledge and work i made alot of projects in lots of categories
